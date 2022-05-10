@@ -1,4 +1,4 @@
-# Penetration-Test-and-Report-on-a-Linux-Target
+# A Full Scale Penetration-Test-and-Report-on-a-Linux-Target
 
 The goal of this project was to conduct a penetration test on a target computer system, 
 with the purpose of finding vulnerabilities and then trying to exploit them to show how vulnerable or secure the system is. 
